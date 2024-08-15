@@ -1,0 +1,1 @@
+This a small piece of code for absolute beginners in python which helps to understand the work flow of the code better, its a number guessing game where the system will guess a number and so the user.
